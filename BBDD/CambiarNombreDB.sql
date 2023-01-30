@@ -1,0 +1,1 @@
+ALTER DATABASE [dbname] MODIFY NAME = [newdbname]
