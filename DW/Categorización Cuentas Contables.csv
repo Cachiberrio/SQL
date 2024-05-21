@@ -1,0 +1,54 @@
+﻿GLAccountFamily;GLAccountSCategory;GLAccountSubcategory;GLAccountFilter;GLAccountCategoryKey
+Activo;Activo no corriente;Inmovilizado intangible;201|2801|2901|202|2802|2902|203|2803|2903|204|207|2807|206|2806|2906|205|209|2805|2905|2809|208|2808;10
+Activo;Activo no corriente;Inmovilizado material;210|2910|211|2811|2911|212|213|214|215|216|217|218|219|2812|2813|2814|2815|2816|2817|2818|2819|2912|2913|2914|2915|2916|2917|2918|2919;20
+Activo;Activo no corriente;Inversiones inmobiliarias;220|2920|221|282|2921;30
+Activo;Activo no corriente;Inversiones en empresas del grupo y asociadas a largo plazo;2403|2404|249|2493|2494|293|2423|2424|2953|2954|2425|2955|2413|2414|2943|2944;40
+Activo;Activo no corriente;Inversiones financieras a largo plazo;2405|2495|250|259|252|253|254|298|2415|251|2945|297|258|26|255|474;50
+Activo;Activo Corriente;Activos no corrientes mantenidos para la venta;580|581|582|583|584|599;60
+Activo;Activo Corriente;Inventario;30|390|31|32|391|392|33|34|35|36|393|394|395|396|37|397|38|398|407;70
+Activo;Activo Corriente;Deudores comerciales y otras cuentas a cobrar;430|431|432|435|436|4935|437|490|433|434|4933|4934|44|5531|5533|460|544|4709|4700|4708|471|472|473|5580;80
+Activo;Activo Corriente;Inversiones en empresas del grupo y asociadas a corto plazo;5303|5304|539|5393|5394|593|5325|5345|5323|5324|5343|5344|5953|5954|5313|5314|5333|5334|5943|5944|5353|5354|5523|5524;90
+Activo;Activo Corriente;Inversiones financieras a corto plazo;5305|540|5395|549|542|543|547|5955|598|5315|5335|541|546|5945|597|5590|5593|5355|545|548|551|5525|565|566|480|567;100
+Activo;Activo Corriente;Efectivo y otros activos líquidos equivalentes;570|571|572|573|574|575|5201|576;110
+Patrimonio;Patrimonio neto;Capital;100|101|102|1030|1040|110;120
+Patrimonio;Patrimonio neto;Reservas;112|1141|113|1140|1142|1143|115|119;130
+Patrimonio;Patrimonio neto;Acciones y participaciones en patrimonio propias;108|109;140
+Patrimonio;Patrimonio neto;Resultados de ejercicios anteriores;120|121;150
+Patrimonio;Patrimonio neto;Otras aportaciones de socios;118;160
+Patrimonio;Patrimonio neto;Resultado del ejercicio;129|6|7;170
+Patrimonio;Patrimonio neto;Dividendo a cuenta;557;180
+Patrimonio;Patrimonio neto;Otros instrumentos de patrimonio neto;111;190
+Patrimonio;Patrimonio neto;Subvenciones, donaciones y legados recibidos;133|1340|137|130|131|132;200
+Pasivo;Pasivo no corriente;Provisiones a largo plazo;140|145|146|141|142|143|147;210
+Pasivo;Pasivo no corriente;Deudas a largo plazo;177|178|179|1605|170|1625|174|176|1615|1635|171|172|173|175|180|185|189;220
+Pasivo;Pasivo no corriente;Deudas con empresas del grupo y asociadas a largo plazo;1603|1604|1613|1614|1623|1624|1633|1634;230
+Pasivo;Pasivo no corriente;Pasivos por impuesto diferido;479;240
+Pasivo;Pasivo no corriente;Periodificaciones a largo plazo;181;250
+Pasivo;Pasivo corriente;Pasivos vinculados con activos no corrientes mantenidos para la venta;585|586|587|588|589;260
+Pasivo;Pasivo corriente;Provisiones a corto plazo;499|529;270
+Pasivo;Pasivo corriente;IDeudas a corto plazo;500|501|505|506|5105|5200|5202|5208|5209|527|5125|524|5595|5598|1034|1044|190|192|194|509|5115|5135|5145|521|522|523|525|526|528|551|5530|5532|555|5565|5566|560|561|569;280
+Pasivo;Pasivo corriente;Deudas con empresas del grupo y asociadas a corto plazo;5103|5104|5113|5114|5123|5124|5133|5134|5143|5144|5563|5564;290
+Pasivo;Pasivo corriente;Acreedores comerciales y otras cuentas a pagar;400|401|405|406|403|404|41|465|466|4752|4750|4751|4758|476|477|438;300
+Pasivo;Pasivo corriente;Periodificaciones a corto plazo;485|568;310
+Ingresos;Ingresos explotación;Ventas;700|701|702|703|704|706|708|709;320
+Ingresos;Ingresos explotación;Prestación de servicios;705;330
+Ingresos;Ingresos explotación;Ingresos por variación de existencias ;71|7930;340
+Ingresos;Ingresos explotación;Trabajos realizados por la empresa para su activo;73;350
+Ingresos;Ingresos explotación;Otros ingresos de explotación;75|740|747;360
+Ingresos;Ingresos explotación;Imputación de subvenciones de inmovilizado no financiero y otras;746;370
+Ingresos;Ingresos explotación;Excesos de provisiones;7951|7952|7955|7956;380
+Ingresos;Ingresos financieros;Ingresos financieros;7600|7601|7602|7603|7610|7611|76200|76201|76210|76211|7612|7613|76202|76203|76212|76213|767|769;390
+Ingresos;Ingresos financieros;Ingreso por variación de valor razonable en instrumentos financieros;7630|7631|7633|6632|7632;400
+Ingresos;Ingresos financieros;Ingresos por diferencias de cambio;768;410
+Gastos;Gastos explotación;Gastos por variación de existencias;6930;420
+Gastos;Gastos explotación;Aprovisionamientos;600|6060|6080|6090|610|601|602|603|6061|6062|6081|6082|6091|6092|611|612|607|6931|7931|6932|7932|6933|7933;430
+Gastos;Gastos explotación;Gastos de personal;640|641|6450|642|643|649|644|6457|7950|7957;440
+Gastos;Gastos explotación;Otros gastos de explotación;62|631|634|636|639|650|694|695|794|7954|651|659;450
+Gastos;Gastos explotación;Amortización del inmovilizado;68;460
+Gastos;Gastos explotación;Deterioro y resultado por enajenaciones del inmovilizado;690|691|692|790|791|792|670|671|672|770|771|772;470
+Gastos;Gastos explotación;Otros resultados;678|778;480
+Gastos;Gastos financieros;Gastos financieros;6610|6611|6615|6616|6620|6621|6640|6641|6650|6651|6654|6655|6612|6613|6617|6618|6622|6623|6624|6642|6643|6652|6653|6656|6657|669|660;490
+Gastos;Gastos financieros;Gasto por variación de valor razonable en instrumentos financieros;6630|6631|6633;500
+Gastos;Gastos financieros;Gastos por diferencias de cambio;668;510
+Gastos;Gastos financieros;Deterioro y resultado por enajenaciones de instrumentos financieros;696|697|698|699|796|797|798|799|666|667|673|675|766|773|775;520
+Gastos;Gastos financieros;Impuestos sobre beneficios;6300|6301|633|638;530
